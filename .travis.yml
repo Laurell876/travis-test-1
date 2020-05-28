@@ -3,5 +3,3 @@ node_js:
   - 12
 
 script: npm run start
-before_install:
-    - npm i -g npm@version-number
